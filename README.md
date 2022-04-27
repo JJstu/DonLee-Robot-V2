@@ -28,7 +28,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 ↪️ 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 𝐒𝐓𝐀𝐓𝐔𝐒 ↩️
 </p>
 
-[![DONLEEROBOTV2](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=DonLee-Robot-V2)](https://github.com/PR0FESS0R-99/DonLee-Robot-V2)
+[![DONLEEROBOTV2](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=DonLee-Robot-V2)](https://github.com/JJstu/DonLee-Robot-V2)
 
 
 ----
@@ -129,7 +129,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 - [Thanks To Me ](https://github.com/PR0FESS0R-99)
 ----
 ----
-* [Pr0fess0r-99](https://github.com/Pr0fess0r-99)
+* [Pr0fess0r-99](https://github.com/Master_Brain1)
 * [Auto-Welcome-Bot](https://github.com/Pr0fess0r-99/Auto-Welcome-Bot)
 * [Broadcast-Bot](https://github.com/PR0FESS0R-99/Broadcast-Bot)
 * [Ban-and-unban-Bot](https://github.com/PR0FESS0R-99/Ban-and-unBan-Bot)
